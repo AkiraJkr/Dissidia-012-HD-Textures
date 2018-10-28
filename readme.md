@@ -7,4 +7,4 @@ This is for the European version of Dissidia 012, I can't guarantee it works on 
 If you want to contribute to this project, please contact my Discord, AkiraJkr#6764
 Or make a pull request.
 
-# This repository is only being maintained and will not receive any changes unless contributed.
+# This repository is archived.
